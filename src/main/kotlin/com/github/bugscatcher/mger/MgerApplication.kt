@@ -9,4 +9,3 @@ class MgerApplication
 fun main(args: Array<String>) {
 	runApplication<MgerApplication>(*args)
 }
-
